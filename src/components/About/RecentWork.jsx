@@ -19,8 +19,8 @@ const RecentWork = () => {
                             </span>
                         </p>
                         <a
-                            target='https://chic-cajeta-cdc688.netlify.app/'
-                            href="https://chic-cajeta-cdc688.netlify.app/"
+                            target='https://dapoerboenda.netlify.app/'
+                            href='https://dapoerboenda.netlify.app/'
                             className='link-body fs-5 text-primary'>
                             https://dapoerboenda.netlify.app/
                         </a>
