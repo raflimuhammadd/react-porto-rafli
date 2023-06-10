@@ -22,7 +22,7 @@ const RecentWork = () => {
                             target='https://chic-cajeta-cdc688.netlify.app/'
                             href="https://chic-cajeta-cdc688.netlify.app/"
                             className='link-body fs-5 text-primary'>
-                            https://chic-cajeta-cdc688.netlify.app/
+                            https://dapoerboenda.netlify.app/
                         </a>
                     </div>
                 </div>
