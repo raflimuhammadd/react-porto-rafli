@@ -14,9 +14,7 @@ const About = () => {
                             About Me
                         </h1>
                         <p className='text-dark fs-5 text-center'>
-                            Hii, I'm a fullstack web developer who Passionate about developing an awesome web app.
-                            I've been in this industry for more than 3 year. I love to create a web app that make people work
-                            easier than ever.
+                            As a 5th-semester undergraduate student pursuing a degree in Informatics Engineering at UPN Veteran East Java, I have a keen interest in the world of information and computer technology, with a specific emphasis on cloud computing. Through my studies, I have gained a solid grasp of fundamental concepts in these fields and have honed my programming abilities.
                         </p>
                     </div>
                 )}
@@ -27,9 +25,7 @@ const About = () => {
                             About Me#2
                         </h1>
                         <p className='text-dark fs-5 text-center'>
-                            Hii, I'm a fullstack web developer who Passionate about developing an awesome web app.
-                            I've been in this industry for more than 3 year. I love to create a web app that make people work
-                            easier than ever.
+                            As a 5th-semester undergraduate student pursuing a degree in Informatics Engineering at UPN Veteran East Java, I have a keen interest in the world of information and computer technology, with a specific emphasis on cloud computing. Through my studies, I have gained a solid grasp of fundamental concepts in these fields and have honed my programming abilities.
                         </p>
                     </div>
                 )}

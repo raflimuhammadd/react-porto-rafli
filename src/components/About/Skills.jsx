@@ -9,20 +9,6 @@ const Skills = () => {
                     <div className='row d-flex justify-content-between'>
                         <div className='col-md-6 d-flex align-items-center justify-content-center'>
                             <h3 className='text-dark mx-3 text-center'>
-                                <i className='fa-brands fa-vuejs'></i>
-                                <p className='fs-6'>Vue Js</p>
-                            </h3>
-                            <h3 className='text-dark mx-3 text-center'>
-                                <i className='fa-brands fa-laravel'></i>
-                                <p className='fs-6'>Laravel</p>
-                            </h3>
-                            <h3 className='text-dark mx-3 text-center'>
-                                <i className='fa-brands fa-react'></i>
-                                <p className='fs-6'>React</p>
-                            </h3>
-                        </div>
-                        <div className='col-md-6 d-flex align-items-center justify-content-center'>
-                            <h3 className='text-dark mx-3 text-center'>
                                 <i className='fa-brands fa-node-js'></i>
                                 <p className='fs-6'>Node Js</p>
                             </h3>

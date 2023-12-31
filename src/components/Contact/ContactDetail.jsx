@@ -8,9 +8,7 @@ const ContactDetail = () => {
                             <span className='text-primary'>My</span> Contact
                         </h1>
                         <p className='col-md-10 fs-5 text-dark'>
-                            Hii, I'm a fullstack web developer who Passionate about developing an awesome web app.
-                            I've been in this industry for more than 3 year. I love to create a web app that make people work
-                            easier than ever.
+                            As a 5th-semester undergraduate student pursuing a degree in Informatics Engineering at UPN Veteran East Java, I have a keen interest in the world of information and computer technology, with a specific emphasis on cloud computing. Through my studies, I have gained a solid grasp of fundamental concepts in these fields and have honed my programming abilities.
                         </p>
                     </div>
                     <div className='col-md-5 mt-3 d-flex align-items-center justify-content-center'>
@@ -27,7 +25,7 @@ const ContactDetail = () => {
                                     href='#'
                                     target='_blank'
                                     className='text-dark fs-4 text-decoration-none'>
-                                    <i className='fa-brands fa-whatsapp'></i> +6282143274612
+                                    <i className='fa-brands fa-whatsapp'></i> -
                                 </a>
                             </div>
                             <div className='mb-2'>
@@ -35,13 +33,13 @@ const ContactDetail = () => {
                                     href='#'
                                     target='_blank'
                                     className='text-dark fs-4 text-decoration-none'>
-                                    <i className='fa-brands fa-instagram'></i> kitamurysdee
+                                    <i className='fa-brands fa-instagram'></i> -
                                 </a>
                             </div>
                             <div className='mb-2'>
                                 <a
                                     href='https://linkedin.com/in/raflimuhammadd/ '
-                                    target='linkedin.com/in/raflimuhammadd/ '
+                                    target='www.linkedin.com/in/raflimuhammadd '
                                     className='text-dark fs-4 text-decoration-none'>
                                     <i className='fa-brands fa-linkedin'></i> raflimuhammadd
                                 </a>

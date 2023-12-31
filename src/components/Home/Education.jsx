@@ -25,13 +25,6 @@ const Education = () => {
                             <div className='mr-lg-5 mr-3'>
                                 <i className='fa-solid fa-medal icon icon-light icon-bg bg-white shadow rounded-circle d-block'></i>
                             </div>
-                            <div>
-                                <p className='text-dark mb-1'>(2018 - 2021)</p>
-                                <h4>Multimedia</h4>
-                                <p className='mb-0 text-light'>
-                                    SMKN 10 Surabaya.
-                                </p>
-                            </div>
                         </div>
                     </div>
                 </div>
